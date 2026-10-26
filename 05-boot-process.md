@@ -1,4 +1,3 @@
-[05-boot-process.md](https://github.com/user-attachments/files/33970881/05-boot-process.md)
 # The Linux Boot Process
 
 ## Introduction
