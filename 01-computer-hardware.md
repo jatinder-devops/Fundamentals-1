@@ -5,7 +5,7 @@ Computer hardware is the physical equipment that runs an operating system and ap
 
 ## Definition
 Hardware includes the physical components of a computer, such as the CPU, memory, storage devices, network interfaces, motherboard, and power supply.
-
+      
 ## How It Works
 1. The power supply provides electricity. 2. Firmware initializes hardware. 3. The CPU executes instructions. 4. RAM holds active code and data. 5. Storage keeps files when power is off. 6. The network interface sends and receives data.
 
